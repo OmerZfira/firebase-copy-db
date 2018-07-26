@@ -3,7 +3,7 @@ Script to copy entire database from one firebase project to another
 
 
 # Usage
-Usage: ./firebase-copy-db.sh [-h] <source_project> <target_project>
+`./firebase-copy-db.sh [-h] <source_project> <target_project>`
 
 Options:
         -h  show this help text
